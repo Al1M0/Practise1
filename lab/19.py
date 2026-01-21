@@ -1,0 +1,5 @@
+s=input()
+target=input()
+rep=input()
+result=s.replace(target, rep)
+print(result)
